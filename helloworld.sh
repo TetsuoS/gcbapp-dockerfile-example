@@ -15,4 +15,4 @@
 
 echo "Hello, world!"
 echo "The time is $(date)."
-echo "test"
+echo "test desu yo"
